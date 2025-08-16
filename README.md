@@ -14,16 +14,16 @@ Dưới đây là 1 số hình ảnh về map trong game và tính năng trong g
 ![Logo](./Assets/Preview/pr_MemeBots_Win.png)
 <br>Speciallose game Scene
 ![Logo](./Assets/Preview/pr_MemeBots_Lose_01.png)
-<br>Map backroom
-![Logo](./Assets/Preview/backroom.png)
-<br>Map Lab
-![Logo](./Assets/Preview/Lab.png)
 <br>Player Mode Tutorial 
 ![Logo](./Assets/Preview/pr_MemeBots_Tutorial_Classic.png)
 <br>Gun Mode Tutorial 
 ![Logo](./Assets/Preview/pr_MemeBots_Tutorial_Bot.png)
 <br>MemeBot Mode Tutorial 
 ![Logo](./Assets/Preview/pr_MemeBots_Tutorial_Gun.png)
+<br>Map backroom
+![Logo](./Assets/Preview/backroom.png)
+<br>Map Lab
+![Logo](./Assets/Preview/Lab.png)
 <br>Map maze
 ![Logo](./Assets/Preview/maze.png)
 <br>Map Office
